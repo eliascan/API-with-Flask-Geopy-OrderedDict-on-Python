@@ -20,4 +20,4 @@ The url must be like that: http://127.0.0.1:8080/Montreal/Boulevard%20Alfred-Nob
 
 It must be placed in the browser's address bar
 
--Python 3.6
+- Python 3.6
